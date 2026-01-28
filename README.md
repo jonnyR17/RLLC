@@ -11,7 +11,6 @@ The code contains:
 - local dataset cache under `data/` (not required if you download data during execution)
 
 ## Environment
-- Python >= 3.9 is recommended.
 - All required dependencies are listed in **`requirements.txt`**.
 
 ## Installation
